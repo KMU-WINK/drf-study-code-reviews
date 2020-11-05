@@ -3,7 +3,7 @@
 # drf-study-code-reviews
 
 <img align="left" width="180" height="180" src="https://wink.kookmin.ac.kr/static/assets/logo/wink-color.png"></img>
-**프로젝트 명 : WINK 공식 웹 사이트(kmu-wink-official)**
+**프로젝트 명 : django-rest-framework 코드리뷰 레파지토리**
 ---
 본 저장소는 django-rest-framework를 이용하여 REST-API를 만들어보는 스터디를 진행하며 코드리뷰를 받을 수 있는 저장소이다.
 .
@@ -69,7 +69,7 @@ develop에서 과제 개발을 완료 후 pull request 를 보내는 브랜치�
  2. 창이 새로 떳다면 좌측 상단의 + 버튼을 누르고 Django server를 클릭합니다.
  3. Host를 0.0.0.0으로 설정합니다.
 
-# 윙크 공식 홈페이지 개발팀
+# django-rest-framework 코드리뷰 레파지토리
 ## 팀원 소개
 
 <img align="left" width="165" height="165" src="https://wink.kookmin.ac.kr/static/images/upload/ACF13837-13AE-4D45-878D-232B94553B24_1_105_c_lgyEbPJ.jpeg"></img>
